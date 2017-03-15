@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/ajax_modal.svg)](https://badge.fury.io/rb/ajax_modal)
+[![Build Status](https://travis-ci.org/mattrothstein/ajax-modal.svg?branch=master)](https://travis-ci.org/mattrothstein/ajax-modal)
 # AjaxModal
 
 AjaxModal is an AJAX scaffold generator used to provide a Bootstrap Modal workflow.
