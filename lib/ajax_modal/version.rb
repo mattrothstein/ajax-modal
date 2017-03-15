@@ -1,0 +1,3 @@
+module AjaxModal
+  VERSION = "0.1.0"
+end
